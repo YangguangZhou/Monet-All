@@ -1,6 +1,6 @@
 {
     "redirects": [
-        { "src": "/", "destination": "https://github.com/YangguangZhou/Monet-All" },
+        { "src": "/", "destination": "https://blog.jerryz.com.cn/article/Monet-All/" },
         { "src": "/coolapk", "destination": "https://www.coolapk.com/feed/42307414?shareKey=NmM5OGYzZmU2ODYwNjNiODIwMDg~" }
     ]
 }
