@@ -2,6 +2,6 @@
     "routes": [
         {"handle": "filesystem"},
         { "src": "/", "dest": "https://github.com/YangguangZhou/Monet-All" },
-        { "src": "/coolapk", "dest": "hhttps://www.coolapk.com/feed/42307414?shareKey=NmM5OGYzZmU2ODYwNjNiODIwMDg~" }
+        { "src": "/coolapk", "dest": "https://www.coolapk.com/feed/42307414?shareKey=NmM5OGYzZmU2ODYwNjNiODIwMDg~" }
     ]
 }
