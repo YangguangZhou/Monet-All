@@ -1,6 +1,6 @@
 {
-    "routes": [
-        { "src": "/", "dest": "https://blog.jerryz.com.cn/article/Monet-All/" },
-        { "src": "/coolapk", "dest": "https://www.coolapk.com/feed/42307414?shareKey=NmM5OGYzZmU2ODYwNjNiODIwMDg~" }
+    "redirects": [
+        { "source": "/", "destination": "https://blog.jerryz.com.cn/article/Monet-All/" },
+        { "source": "/coolapk", "destination": "https://www.coolapk.com/feed/42307414?shareKey=NmM5OGYzZmU2ODYwNjNiODIwMDg~" }
     ]
 }
