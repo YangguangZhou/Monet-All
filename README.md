@@ -1,7 +1,10 @@
 # Monet-All
+
 莫奈取色整合的Magisk模块
 
 可通过音量键选择是否安装对应应用的取色模块
+
+[酷安原帖](https://monet.jerryz.com.cn/coolapk)
 
 ## v1.4更新日志
  - 新增：豆瓣、贴吧Lite、Clash(foss版本)、享做笔记的莫奈取色
@@ -37,3 +40,36 @@ Magisk模块
 
 ## 简介
 莫奈主题是 Android12 的 Material You 新特性，它会根据壁纸来生成系统主题色，软件也会根据系统主题色来变化。
+
+## 效果
+![](https://monet.jerryz.com.cn/resources/1.png)
+
+![](https://monet.jerryz.com.cn/resources/2.png)
+
+![](https://monet.jerryz.com.cn/resources/3.png)
+
+![](https://monet.jerryz.com.cn/resources/4.png)
+
+![](https://monet.jerryz.com.cn/resources/5.png)
+
+![](https://monet.jerryz.com.cn/resources/6.png)
+
+![](https://monet.jerryz.com.cn/resources/7.png)
+
+![](https://monet.jerryz.com.cn/resources/8.png)
+
+![](https://monet.jerryz.com.cn/resources/9.png)
+
+![](https://monet.jerryz.com.cn/resources/10.png)
+
+![](https://monet.jerryz.com.cn/resources/11.png)
+
+![](https://monet.jerryz.com.cn/resources/12.png)
+
+![](https://monet.jerryz.com.cn/resources/13.png)
+
+![](https://monet.jerryz.com.cn/resources/14.png)
+
+![](https://monet.jerryz.com.cn/resources/15.png)
+
+![](https://monet.jerryz.com.cn/resources/16.png)

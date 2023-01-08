@@ -1,11 +1,7 @@
 {
     "routes": [
         {"handle": "filesystem"},
-        { "src": "/project", "dest": "/project/index.html" },
-        { "src": "/account", "dest": "/account/index.html" },
-        { "src": "/game", "dest": "/game/index.html" },
-        { "src": "/", "dest": "/index/index.html" },
-        { "src": "/404", "dest": "/404/404.html" },
-        {"src": "/(.*)","status": 404,"dest": "/404.html"}
+        { "src": "/", "dest": "https://github.com/YangguangZhou/Monet-All" },
+        { "src": "/coolapk", "dest": "hhttps://www.coolapk.com/feed/42307414?shareKey=NmM5OGYzZmU2ODYwNjNiODIwMDg~" }
     ]
 }
