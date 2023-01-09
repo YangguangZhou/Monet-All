@@ -4,7 +4,9 @@
 
 可通过音量键选择是否安装对应应用的取色模块
 
-[酷安原帖](https://monet.jerryz.com.cn/coolapk)
+**[酷安原帖](https://monet.jerryz.com.cn/coolapk)**
+
+**[下载地址](https://monet.jerryz.com.cn/Monet-All.zip)**
 
 ## v1.4更新日志
  - 新增：豆瓣、贴吧Lite、Clash(foss版本)、享做笔记的莫奈取色
