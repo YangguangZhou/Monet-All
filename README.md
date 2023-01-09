@@ -4,6 +4,8 @@
 
 可通过音量键选择是否安装对应应用的取色模块
 
+https://monet.jerryz.com.cn/
+
 **[酷安原帖](https://monet.jerryz.com.cn/coolapk)**
 
 **[下载地址](https://monet.jerryz.com.cn/Monet-All.zip)**
