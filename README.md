@@ -8,7 +8,7 @@ https://monet.jerryz.com.cn/
 
 **[酷安原帖](https://monet.jerryz.com.cn/coolapk)**
 
-**[下载地址](https://monet.jerryz.com.cn/Monet-All.zip)**
+**[下载地址](https://monet.jerryz.com.cn/download)**
 
 ## v1.4更新日志
  - 新增：豆瓣、贴吧Lite、Clash(foss版本)、享做笔记的莫奈取色
