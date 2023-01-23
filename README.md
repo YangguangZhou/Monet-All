@@ -46,34 +46,34 @@ Magisk模块
 莫奈主题是 Android12 的 Material You 新特性，它会根据壁纸来生成系统主题色，软件也会根据系统主题色来变化。
 
 ## 效果
-![](https://monet.jerryz.com.cn/resources/1.png)
+![](https://edu-image.nosdn.127.net/2D47183F931DC8127AF498BBF8ABBDDC.png)
 
-![](https://monet.jerryz.com.cn/resources/2.png)
+![](https://edu-image.nosdn.127.net/2DE588BF698E6F7EE51F2DC6394474EE.png)
 
-![](https://monet.jerryz.com.cn/resources/3.png)
+![](https://edu-image.nosdn.127.net/3D7C5DDFA0F9DDC8FBBA97CA64665A6A.png)
 
-![](https://monet.jerryz.com.cn/resources/4.png)
+![](https://edu-image.nosdn.127.net/366E22CA079F858A35000A2231A6B86B.png)
 
-![](https://monet.jerryz.com.cn/resources/5.png)
+![](https://edu-image.nosdn.127.net/DB13A39D8E85D0EDE8523C354F8D60FC.png)
 
-![](https://monet.jerryz.com.cn/resources/6.png)
+![](https://edu-image.nosdn.127.net/7151A639A037CAD8826E596CE46147AC.png)
 
-![](https://monet.jerryz.com.cn/resources/7.png)
+![](https://edu-image.nosdn.127.net/50097A90636E6E05F07F6243E6605336.png)
 
-![](https://monet.jerryz.com.cn/resources/8.png)
+![](https://edu-image.nosdn.127.net/73212863BC8F2D98721CFF0754E0A6CE.png)
 
-![](https://monet.jerryz.com.cn/resources/9.png)
+![](https://edu-image.nosdn.127.net/663285D480FD7FCFEE9E0CBF419DF8FE.png)
 
-![](https://monet.jerryz.com.cn/resources/10.png)
+![](https://edu-image.nosdn.127.net/A899B8CF80E8774B9B5C0CD212EDCD74.png)
 
-![](https://monet.jerryz.com.cn/resources/11.png)
+![](https://edu-image.nosdn.127.net/D89A55979AFEE81284DC520BE22FA624.png)
 
-![](https://monet.jerryz.com.cn/resources/12.png)
+![](https://edu-image.nosdn.127.net/1247D707B5CA0705635BBB1EBAF39EB9.png)
 
-![](https://monet.jerryz.com.cn/resources/13.png)
+![](https://edu-image.nosdn.127.net/4C7B8ACD8111E1D96E504AD3020167DD.png)
 
-![](https://monet.jerryz.com.cn/resources/14.png)
+![](https://edu-image.nosdn.127.net/402B9A72CE7E1AD346E38ACDC61254C2.png)
 
-![](https://monet.jerryz.com.cn/resources/15.png)
+![](https://edu-image.nosdn.127.net/489F5430D40316AC69CFF23D86FA5A27.png)
 
-![](https://monet.jerryz.com.cn/resources/16.png)
+![](https://edu-image.nosdn.127.net/F4EC6594149E0F3301344560C030E48C.png)
