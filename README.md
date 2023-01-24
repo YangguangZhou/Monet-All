@@ -2,6 +2,13 @@
 
 莫奈取色整合的Magisk模块
 
+![stars](https://img.shields.io/github/stars/YangguangZhou/Monet-All?style=flat)
+![visitor](https://visitor-badge.laobi.icu/badge?page_id=Monet-All)
+![last commit](https://shields.io/github/last-commit/YangguangZhou/Monet-All?style=flat)
+
+![Monet-All](https://github-readme-stats.vercel.app/api/pin/?username=YangguangZhou&repo=Monet-All)
+
+
 可通过音量键选择是否安装对应应用的取色模块
 
 https://monet.jerryz.com.cn/
