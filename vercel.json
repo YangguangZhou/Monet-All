@@ -2,6 +2,6 @@
     "redirects": [
         { "source": "/", "destination": "https://blog.jerryz.com.cn/article/Monet-All/" },
         { "source": "/coolapk", "destination": "https://www.coolapk.com/feed/42307414?shareKey=NmM5OGYzZmU2ODYwNjNiODIwMDg~" },
-        { "source": "/download", "destination": "/Monet-All.zip" }
+        { "source": "/download", "destination": "https://i71.lanzoug.com/0127170099000667bb/2023/01/27/3651e736596a91325d2317e3e2dbe78a.zip?st=YF7jt02rFEcNmirR3V4Rog&e=1674812712&b=CRZcMwZoUTEAIQJ5UkMAaAM6XS9QKwFuCSo_c&fi=99000667&pid=198-186-197-188&up=2&mp=0&co=1" }
     ]
 }
