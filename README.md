@@ -40,6 +40,8 @@ Clash（foss版本） JerryZhouYG
 Apple Music Deskerd
 ```
 
+如果您的Clash为Premium版本（可以在Clash的中找到自己的版本），可以使用MT管理器/模块路径/system/priv-app/Clash.apk中两个文件里`(monet.)com .github.kr328.clash.foss`后的`.foss`删去(共三处)
+
 ## 刷入方式
 Magisk模块
 
