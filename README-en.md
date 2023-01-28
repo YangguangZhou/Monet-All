@@ -2,9 +2,9 @@
 
 Monet color picking integrated Magisk module, you can choose whether to install the corresponding application color picking module through the volume keys
 
-! [stars](https://img.shields.io/github/stars/YangguangZhou/Monet-All?style=flat)
-! [viewer](https://visitor-badge.laobi.icu/badge?page_id=Monet-All)
-! [last commit](https://shields.io/github/last-commit/YangguangZhou/Monet-All?style=flat)
+![stars](https://img.shields.io/github/stars/YangguangZhou/Monet-All?style=flat)
+![viewer](https://visitor-badge.laobi.icu/badge?page_id=Monet-All)
+![last commit](https://shields.io/github/last-commit/YangguangZhou/Monet-All?style=flat)
 
 **[monet.jerryz.com.cn](https://monet.jerryz.com.cn/)**
 
