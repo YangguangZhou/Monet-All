@@ -1,17 +1,16 @@
-# v1.5更新日志
- - 新增：Apple Music的莫奈取色
- - 更新：Bilibili莫奈取色由Esing的版本更换至Ylrs113的版本
- - 支持在模块描述中显示当前已开启莫奈取色的应用
- - 优化`customize.sh`
+# v2.0更新日志
+ - 新增：微信国内版、TapTap、Firefox、Iceraven、FirefoxNightly、一个木函、Share（第三方微博）、APKGrabber、Nothing天气的莫奈取色
+ - 新增：Jetisteam（第三方Spotify）、VideoYou的安装
+ - 新增：MIUI Monet、PUI Theme for ColorOS13的下载
+ - 更新：Bilibili莫奈取色更新新版本
+ - 更换：Via的莫奈取色更换为null喵的
+ - 修复：修复Scene莫奈取色文字颜色异常的Bug
+ - 变化：取色模块/应用分为Magisk模块、修改版应用、独立应用和系统模块四个部分
+ - 优化：对于Magisk模块，仅会询问是否安装设备上已有应用的莫奈取色
+ - 大幅优化`customize.sh`
+ 
+# Telegram交流群
+https://t.me/Monet_All
 
 # 捐赠
 如果你觉得这个模块对你有帮助，你可以考虑[支持我的开发](https://pay.jerryz.com.cn/)
-
-# v1.5 changelog
- - Added: Monet color pickup for Apple Music
- - Update: Bilibili Monet color pickup replaced from Esing's version to Ylrs113's version
- - Support displaying the current Monet coloring application in the module description
- - Optimize `customize.sh`
-
-# Donate
-If you find this module helpful, you may consider [support my development](https://pay.jerryz.com.cn/)

@@ -4,8 +4,8 @@
 
 ![stars](https://img.shields.io/github/stars/YangguangZhou/Monet-All?style=flat)
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=Monet-All)
+[![Telegram](https://img.shields.io/badge/Telegram-Monet__All-blue?logo=telegram)](https://t.me/Monet_All)
 ![last commit](https://shields.io/github/last-commit/YangguangZhou/Monet-All?style=flat)
-![Monet-All](https://github-readme-stats.vercel.app/api/pin/?username=YangguangZhou&repo=Monet-All)
 
 **[monet.jerryz.com.cn](https://monet.jerryz.com.cn/)**
 
@@ -13,11 +13,16 @@
 
 **[下载地址](https://monet.jerryz.com.cn/download)**
 
-## v1.5更新日志
- - 新增：Apple Music的莫奈取色
- - 更新：Bilibili莫奈取色由Esing的版本更换至Ylrs113的版本
- - 支持在模块描述中显示当前已开启莫奈取色的应用
- - 优化`customize.sh`
+## v2.0更新日志
+ - 新增：微信国内版、TapTap、Firefox、Iceraven、FirefoxNightly、一个木函、Share（第三方微博）、APKGrabber、Nothing天气的莫奈取色
+ - 新增：Jetisteam（第三方Spotify）、VideoYou的安装
+ - 新增：MIUI Monet、PUITheme for ColorOS13的下载
+ - 更新：Bilibili莫奈取色更新新版本
+ - 更换：Via的莫奈取色更换为null喵的
+ - 修复：修复Scene莫奈取色文字颜色异常的Bug
+ - 变化：取色模块/应用分为Magisk模块、修改版应用、独立应用和系统模块四个部分
+ - 优化：对于Magisk模块，仅会询问是否安装设备上已有应用的莫奈取色
+ - 大幅优化`customize.sh`
 
 ## 包含的应用及原作者（来自酷安）
 ```
@@ -32,15 +37,26 @@ MIUI 音乐 醒亦恋你梦亦恋你
 Bilibili Ylrs113
 百词斩 Esing
 小横条 天伞桜
-Via 今华宝宝唯朕高
+Via null喵
 豆瓣 账号被迫注销
 贴吧Lite 三五二三一
-Clash（foss版本） JerryZhouYG
+Clash（Foss版） JerryZhouYG
+Clash（Premium版） JerryZhouYG
 享做笔记 Esing
 Apple Music Deskerd
+TapTap null喵
+Firefox null喵
+Iceraven null喵
+FirefoxNightly null喵
+一个木函 JerryZhouYG
+Share（第三方微博）WhiCCX5
+APKGrabber WhiCCX5
+Nothing天气 WhiCCX5
+Jetisteam（第三方Spotify） iTaysonLab(Telegram)
+VideoYou 稻光千叶
+MIUI Monet Geoorg(GitHub)
+PUITheme for ColorOS13 天伞桜
 ```
-
-如果您的Clash为Premium版本（可以在Clash的中找到自己的版本），可以使用MT管理器/模块路径/system/priv-app/Clash.apk中两个文件里`(monet.)com .github.kr328.clash.foss`后的`.foss`删去(共三处)
 
 ## 刷入方式
 Magisk模块
