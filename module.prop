@@ -1,7 +1,7 @@
 id=Monet-All
 name=Monet-All
-version=v1.5
-versionCode=15
+version=v2.0
+versionCode=20
 author=Jerry Zhou
-description=莫奈取色整合模块，为微信(play 8.0.21)(聊天气泡圆角版本)、酷安、微信键盘、微信读书、网易云音乐(v4.3.1)、Scene、皮皮虾、MIUI音乐、Bilibili、百词斩、小横条、Via、豆瓣、贴吧Lite、Clash(foss版本)、享做笔记、Apple Music开启莫奈取色  GitHub项目地址：https://github.com/YangguangZhou/Monet-All
+description=莫奈取色整合模块 GitHub项目地址：https://github.com/YangguangZhou/Monet-All Telegram交流群：https://t.me/Monet_All
 updateJson=https://monet.jerryz.com.cn/Monet-All.json
