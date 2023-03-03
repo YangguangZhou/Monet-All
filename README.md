@@ -4,8 +4,12 @@
 
 ![stars](https://img.shields.io/github/stars/YangguangZhou/Monet-All?style=flat)
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=Monet-All)
-[![Telegram](https://img.shields.io/badge/Telegram-Monet__All-blue?logo=telegram)](https://t.me/Monet_All)
-![last commit](https://shields.io/github/last-commit/YangguangZhou/Monet-All?style=flat)
+![GitHub all releases](https://img.shields.io/github/downloads/YangguangZhou/Monet-All/total)
+![GitHub repo size](https://img.shields.io/github/repo-size/YangguangZhou/Monet-All)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/YangguangZhou/Monet-All)
+![GitHub Release Date](https://img.shields.io/github/release-date/YangguangZhou/Monet-All)
+![last commit](https://img.shields.io/github/last-commit/YangguangZhou/Monet-All?style=flat)
+[![Telegram](https://img.shields.io/badge/Telegram-Monet__All-informational?logo=telegram)](https://monet.jerryz.com.cn/group)
 
 **[monet.jerryz.com.cn](https://monet.jerryz.com.cn/)**
 
@@ -65,6 +69,13 @@ Magisk模块
 
 **搞机不谨慎，救砖两行泪**
 
+## 捐赠
+如果你觉得这个模块对你有帮助，你可以考虑[支持我的开发](https://pay.jerryz.com.cn/)
+
+## 交流群
+[点击这里加入](https://monet.jerryz.com.cn/group)
+[![Telegram](https://img.shields.io/badge/Telegram-Monet__All-informational?logo=telegram)](https://monet.jerryz.com.cn/group)
+
 ## 简介
 莫奈主题是 Android12 的 Material You 新特性，它会根据壁纸来生成系统主题色，软件也会根据系统主题色来变化。
 
@@ -74,18 +85,3 @@ Magisk模块
 ![](https://drive.jerryz.com.cn/Photos/3.png)
 ![](https://drive.jerryz.com.cn/Photos/4.png)
 ![](https://drive.jerryz.com.cn/Photos/5.png)
-![](https://drive.jerryz.com.cn/Photos/6.png)
-![](https://drive.jerryz.com.cn/Photos/7.png)
-![](https://drive.jerryz.com.cn/Photos/8.png)
-![](https://drive.jerryz.com.cn/Photos/9.png)
-![](https://drive.jerryz.com.cn/Photos/10.png)
-![](https://drive.jerryz.com.cn/Photos/11.png)
-![](https://drive.jerryz.com.cn/Photos/12.png)
-![](https://drive.jerryz.com.cn/Photos/13.png)
-![](https://drive.jerryz.com.cn/Photos/14.png)
-![](https://drive.jerryz.com.cn/Photos/15.png)
-![](https://drive.jerryz.com.cn/Photos/16.png)
-![](https://drive.jerryz.com.cn/Photos/17.png)
-
-## 捐赠
-如果你觉得这个模块对你有帮助，你可以考虑[支持我的开发](https://pay.jerryz.com.cn/)

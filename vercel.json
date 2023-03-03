@@ -1,6 +1,6 @@
 {
     "redirects": [
-        { "source": "/", "destination": "https://blog.jerryz.com.cn/article/Monet-All/" },
+        { "source": "/", "destination": "https://blog.jerryz.com.cn/article/Monet-All/?utm_source=Monet" },
         { "source": "/coolapk", "destination": "https://www.coolapk.com/feed/42307414?shareKey=NmM5OGYzZmU2ODYwNjNiODIwMDg~" },
         { "source": "/download", "destination": "https://drive.jerryz.com.cn/Drive/Monet-All/Monet-All.zip" },
         { "source": "/group", "destination": "https://t.me/Monet_All" }
