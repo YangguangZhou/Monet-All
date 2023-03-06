@@ -221,7 +221,8 @@ for loop in com.coolapk.market com.tencent.wetype com.tencent.weread com.apple.a
 done
 echo -en "\n二、修改版应用\n"
 output="$(pm list package | grep com.coderstory.toolkit)"
-if [[ "$output" != "" ]]; then
+output2="$(pm list package | grep com.luckyzyx.luckytool)"
+if [ "$output" != "" ] || [ "$output2" != "" ]; then
     echo 已安装核心破解
     for loop in 一个木函 Share（第三方微博） APKGrabber Nothing天气; do
         echo "—————————————————————————
