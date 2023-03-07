@@ -29,38 +29,38 @@
  - 大幅优化`customize.sh`
 
 ## 包含的应用及原作者（来自酷安）
-```
-微信（play 8.0.21）（由 JerryZhouYG 修改聊天气泡圆角）大且丑
-酷安 人在且号无
-微信键盘 JerryZhouYG
-微信读书 JerryZhouYG
-网易云音乐（v4.3.1）ku567
-Scene 人在且号无
-皮皮虾 醒亦恋你梦亦恋你
-MIUI 音乐 醒亦恋你梦亦恋你
-Bilibili Ylrs113
-百词斩 Esing
-小横条 天伞桜
-Via null喵
-豆瓣 账号被迫注销
-贴吧Lite 三五二三一
-Clash（Foss版） JerryZhouYG
-Clash（Premium版） JerryZhouYG
-享做笔记 Esing
-Apple Music Deskerd
-TapTap null喵
-Firefox null喵
-Iceraven null喵
-FirefoxNightly null喵
-一个木函 JerryZhouYG
-Share（第三方微博）WhiCCX5
-APKGrabber WhiCCX5
-Nothing天气 WhiCCX5
-Jetisteam（第三方Spotify） iTaysonLab(Telegram)
-VideoYou 稻光千叶
-MIUI Monet Geoorg(GitHub)
-PUITheme for ColorOS13 天伞桜
-```
+| 应用 | 原作者 |
+| --- | --- |
+| 微信（play 8.0.21） | JerryZhouYG 修改聊天气泡圆角 |
+| 酷安 | 人在且号无 |
+| 微信键盘 | JerryZhouYG |
+| 微信读书 | JerryZhouYG |
+| 网易云音乐（v4.3.1） | ku567 |
+| Scene | 人在且号无 |
+| 皮皮虾 | 醒亦恋你梦亦恋你 |
+| MIUI 音乐 | 醒亦恋你梦亦恋你 |
+| Bilibili | Ylrs113 |
+| 百词斩 | Esing |
+| 小横条 | 天伞桜 |
+| Via | null喵 |
+| 豆瓣 | 账号被迫注销 |
+| 贴吧Lite | 三五二三一 |
+| Clash（Foss版） | JerryZhouYG |
+| Clash（Premium版） | JerryZhouYG |
+| 享做笔记 | Esing |
+| Apple Music | Deskerd |
+| TapTap | null喵 |
+| Firefox | null喵 |
+| Iceraven | null喵 |
+| FirefoxNightly | null喵 |
+| 一个木函 | JerryZhouYG |
+| Share（第三方微博） | WhiCCX5 |
+| APKGrabber | WhiCCX5 |
+| Nothing天气 | WhiCCX5 |
+| Jetisteam（第三方Spotify） | iTaysonLab(Telegram) |
+| VideoYou | 稻光千叶 |
+| MIUI Monet | Geoorg(GitHub) |
+| PUITheme for ColorOS13 | 天伞桜 |
 
 ## 刷入方式
 Magisk模块
