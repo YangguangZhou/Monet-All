@@ -148,9 +148,6 @@ for loop in com.coolapk.market com.tencent.wetype com.tencent.weread com.apple.a
     com.github.kr328.clash)
         name=Clash（Premium版）
         ;;
-    com.netease.cloudmusic)
-        name=网易云音乐
-        ;;
     com.omarea.vtools)
         name=Scene
         ;;
