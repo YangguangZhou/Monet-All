@@ -1,14 +1,7 @@
-# v2.0更新日志
- - 新增：微信国内版、TapTap、Firefox、Iceraven、FirefoxNightly、一个木函、Share（第三方微博）、APKGrabber、Nothing天气的莫奈取色
- - 新增：Jetisteam（第三方Spotify）、VideoYou的安装
- - 新增：MIUI Monet、PUI Theme for ColorOS13的下载
- - 更新：Bilibili莫奈取色更新新版本
- - 更换：Via的莫奈取色更换为null喵的
- - 修复：修复Scene莫奈取色文字颜色异常的Bug
- - 变化：取色模块/应用分为Magisk模块、修改版应用、独立应用和系统模块四个部分
- - 优化：对于Magisk模块，仅会询问是否安装设备上已有应用的莫奈取色
- - 大幅优化`customize.sh`
- 
+# v2.0.1更新日志
+ - 修复：部分情况下安装异常的Bug
+ - 更新：更新微信Play版和微信键盘的莫奈取色
+   
 # Telegram交流群
 https://t.me/Monet_All
 
