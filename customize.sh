@@ -5,7 +5,7 @@ LATESTARTSERVICE=true
 ForcedAttention=true
 AskAbout=true
 
-echo -en "\nMonet-All v2.0.1\nby Jerry Zhou\n\n"
+echo -en "\nMonet-All v2.0.2\nby Jerry Zhou\n\n"
 sleep 0.5s
 echo -en '安装模块前请先确认模块适配的应用版本并阅读注意事项\n搞机不谨慎，救砖两行泪\n'
 sleep 0.5s
@@ -90,7 +90,7 @@ if [[ "$output" != "" ]]; then
     done
     sleep 0.3s
 fi
-for loop in com.coolapk.market com.tencent.wetype com.tencent.weread com.apple.android.music tv.danmaku.bili com.android.systemui mark.via com.douban.frodo com.huanchengfly.tieba.post com.github.kr328.clash.foss com.github.kr328.clash com.netease.cloudmusic com.omarea.vtools com.sup.android.superb com.miui.player com.jiongji.andriod.card com.newskyer.draw com.taptap org.mozilla.firefox org.mozilla.fenix io.github.forkmaintainers.iceraven; do
+for loop in com.coolapk.market com.tencent.wetype com.tencent.weread com.apple.android.music tv.danmaku.bili com.bilibili.app.in com.android.systemui mark.via com.douban.frodo com.huanchengfly.tieba.post com.github.kr328.clash.foss com.github.kr328.clash com.netease.cloudmusic com.omarea.vtools com.sup.android.superb com.miui.player com.jiongji.andriod.card com.newskyer.draw com.taptap org.mozilla.firefox org.mozilla.fenix io.github.forkmaintainers.iceraven cn.icyflame.unknown com.aefyr.sai com.caiyuninterpreter.activity com.jarstones.jizhang com.Jesse205.hellotool com.liuzho.file.explorer com.modosa.apkinstaller com.modosa.rootinstaller com.nowcasting.activity com.realvnc.viewer.android com.tencent.androidqqmail com.wangc.bill eu.thedarken.sdm idm.internet.download.manager idm.internet.download.manager.plus me.gfuil.bmap nutstore.android web1n.stopapp x7890.shortcutcreator; do
     case $loop in
     com.coolapk.market)
         name=酷安
@@ -106,6 +106,9 @@ for loop in com.coolapk.market com.tencent.wetype com.tencent.weread com.apple.a
         ;;
     tv.danmaku.bili)
         name=BiliBili
+        ;;
+    com.bilibili.app.in)
+        name=Bilibili国际版
         ;;
     com.android.systemui)
         name=小横条
@@ -152,6 +155,63 @@ for loop in com.coolapk.market com.tencent.wetype com.tencent.weread com.apple.a
     io.github.forkmaintainers.iceraven)
         name=Iceraven
         ;;
+    cn.icyflame.unknown)
+        name=随机Unknown
+        ;;
+    com.aefyr.sai)
+        name=SAI
+        ;;
+    com.caiyuninterpreter.activity)
+        name=彩云小译
+        ;;
+    com.jarstones.jizhang)
+        name=一飞记账
+        ;;
+    com.Jesse205.hellotool)
+        name=哈兔Box
+        ;;
+    com.liuzho.file.explorer)
+        name=流舟文件
+        ;;
+    com.modosa.apkinstaller)
+        name=安装狮
+        ;;
+    com.modosa.rootinstaller)
+        name=安装狮-root
+        ;;
+    com.nowcasting.activity)
+        name=彩云天气
+        ;;
+    com.realvnc.viewer.android)
+        name=VNC Viewer
+        ;;
+    com.tencent.androidqqmail)
+        name=QQ邮箱
+        ;;
+    com.wangc.bill)
+        name=一木记账
+        ;;
+    eu.thedarken.sdm)
+        name=SD Maid
+        ;;
+    idm.internet.download.manager)
+        name=IDM
+        ;;
+    idm.internet.download.manager.plus)
+        name=IDM+
+        ;;
+    me.gfuil.bmap)
+        name=白马地图
+        ;;
+    nutstore.android)
+        name=坚果云
+        ;;
+    web1n.stopapp)
+        name=小黑屋
+        ;;
+    x7890.shortcutcreator)
+        name=创建快捷方式
+        ;;
     *) continue ;;
     esac
     output="$(pm list package | grep $loop)"
@@ -169,9 +229,9 @@ for loop in com.coolapk.market com.tencent.wetype com.tencent.weread com.apple.a
             KEY_VOLUMEUP)
                 echo "成功安装$name莫奈取色"
                 let cnt+=1
-                if [ "$cnt" -ge 5 ]; then
+                if [ "$cnt" -ge 6 ]; then
                     monet=${monet}"、\n"${name}
-                    let cnt-=5
+                    let cnt-=6
                 else
                     monet=${monet}"、"${name}
                 fi
