@@ -63,7 +63,7 @@ export default defineConfig({
       copyright: 'Copyright © 2022-2023 Jerry Zhou(https://jerryz.com.cn)'
     },
     editLink: {
-      pattern: 'https://github.com/YangguangZhou/VitePress/blob/main/docs/:path',
+      pattern: 'https://github.com/YangguangZhou/Monet-All/blob/docs/docs/:path',
       text: '在 GitHub 中编辑本页'
     },
     // localSearch: {
