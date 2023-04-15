@@ -22,7 +22,7 @@ export default defineConfig({
       next: 'Next page'
     },
     editLink: {
-      pattern: 'https://github.com/YangguangZhou/VitePress/blob/main/docs/:path',
+      pattern: 'https://github.com/YangguangZhou/Monet-All/blob/docs/docs/:path',
       text: 'Edit this page on GitHub'
     },
     logo: 'https://img.examcoo.com/ask/7386438/202303/167966740456420.png',
