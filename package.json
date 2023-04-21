@@ -5,5 +5,8 @@
   },
   "devDependencies": {
     "vitepress": "^1.0.0-alpha.65"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.0.0"
   }
 }
