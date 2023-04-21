@@ -22,9 +22,14 @@ export default defineConfig({
     [
       'script',
       { async: '', src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2597042766299857', crossorigin: 'anonymous' } 
+    ],
+    [
+      'script',
+      { defer: '', src: '/_vercel/insights/script.js' }
     ]
     // <script async defer data-website-id="35608e60-ae9b-43f4-825d-c85df3957e4e" src="https://um.jerryz.com.cn/umami.js"></script>
     // <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2597042766299857" crossorigin="anonymous"></script>
+    // <script defer src="/_vercel/insights/script.js"></script>
   ],
   locales: {
     root: {
