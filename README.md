@@ -2,7 +2,7 @@
 
 莫奈取色整合的Magisk模块，可通过音量键选择是否安装对应应用的取色模块
 
-The integrated Magisk module of Monet's color picker, you can choose whether to install the color picker module of the corresponding application through the volume keys
+The Magisk module integrated with Monet color extraction can select whether to install the color extraction module of the corresponding application through the volume key.
 
 ## [中文文档](https://monet.jerryz.com.cn/) | [English Document](https://monet.jerryz.com.cn/en)
 
