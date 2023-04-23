@@ -8,3 +8,4 @@ You can leave your information in the notes, and your information will be displa
 
 | Nickname | Amount | Message |
 | --- | --- | --- |
+| 仙童半导体 | ¥20 | 小弟加油 |
