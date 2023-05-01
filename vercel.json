@@ -7,5 +7,7 @@
         { "source": "/Monet-All.md", "destination": "https://cloud.jerryz.com.cn/d/Monet-All/Monet-All.md" },
         { "source": "/Monet-All.json", "destination": "https://cloud.jerryz.com.cn/d/Monet-All/Monet-All.json" },
         { "source": "/group", "destination": "https://t.me/Monet_All" }
-    ]
+    ],
+    "cleanUrls" : true,
+    "devCommand": "yarn install"
 }
