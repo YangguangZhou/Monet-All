@@ -26,11 +26,6 @@ export default defineConfig({
       text: 'Edit this page on GitHub'
     },
     logo: 'https://img.examcoo.com/ask/7386438/202303/167966740456420.png',
-    algolia: {
-      appId: '8A2KTNQ6H3',
-      apiKey: '601ad99b9e61fb18aca0216565e068bd',
-      indexName: 'jerryz-com',
-    },
   }
 })
 
