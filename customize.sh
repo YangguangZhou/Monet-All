@@ -1,4 +1,4 @@
-#安装脚本由“@焕晨”改
+#Code by Jerry Zhou, modified by 焕晨
 #延迟输出
 Outputs() {
   echo "$@"
@@ -23,7 +23,7 @@ Volume_key_monitoring() {
 
 #开始安装
 sleep 0.07
-echo -en "\nMonet-All v2.0.3\nby Jerry Zhou\n\n"
+echo -en "\nMonet-All v2.0.2\nby Jerry Zhou\n\n"
 sleep 0.07
 echo -en '安装模块前请先确认模块适配的应用版本并阅读注意事项\n搞机不谨慎，救砖两行泪\n'
 Outputs "—————————————————————————————————————"
@@ -40,6 +40,9 @@ else
 fi
 
 #初始化变量
+local monet
+local module
+local cnt
 cnt=0
 #判断软件是否安装
 output="$(pm list package | grep com.tencent.mm)"
@@ -57,13 +60,13 @@ if [[ "$output" != "" ]]; then
     Outputs "—————————————————————————"
     if [[ $(Volume_key_monitoring) == 0 ]]; then
       Outputs "成功安装微信（国内版）莫奈取色"
-      ((cnt += 1))
+      let cnt+=1
       monet="微信（国内版）"
       module="微信（国内版）"
       rm -rf "$MODPATH/system/priv-app/com.tencent.mm(Play).apk"
     else
       Outputs "成功安装微信（Play版）莫奈取色"
-      ((cnt += 1))
+      let cnt+=1
       monet="微信（Play版）"
       module="微信（Play版）"
       rm -rf "$MODPATH/system/priv-app/com.tencent.mm.apk"
@@ -195,7 +198,7 @@ for loop in com.coolapk.market com.tencent.wetype com.tencent.weread com.apple.a
     name=小黑屋
     ;;
   x7890.shortcutcreator)
-    name="创建快捷方式"
+    name=创建快捷方式
     ;;
   *) continue ;;
   esac
@@ -208,21 +211,17 @@ for loop in com.coolapk.market com.tencent.wetype com.tencent.weread com.apple.a
     Outputs "—————————————————————————"
     if [[ $(Volume_key_monitoring) == 0 ]]; then
       Outputs "成功安装$name莫奈取色"
-      ((cnt += 1))
-      if [[ "$cnt" -ge 6 ]]; then
+      let cnt+=1
+      if [[ "$cnt" -ge 8 ]]; then
         monet=${monet}"、\n"${name}
-        ((cnt -= 4))
+        let cnt-=6
       else
-        if [[ "$cnt" == 1 ]]; then
+        if [[ "$cnt" -le 1 ]]; then
           monet=${name}
+          let cnt=2
         else
           monet=${monet}"、"${name}
         fi
-      fi
-      if [[ "$cnt" == 1 ]]; then
-        module=${name}
-      else
-        module=${module}"、"${name}
       fi
     else
       Outputs "不安装$name莫奈取色"
@@ -250,7 +249,7 @@ fi
 
 sleep 0.07
 echo -en "\n已安装下列应用的莫奈取色：\n""${monet}"
-sed -i "6c description=莫奈取色整合模块   已开启莫奈取色的软件：${module}   GitHub项目地址：https://github.com/YangguangZhou/Monet-All" "$MODPATH"/module.prop
+sed -i "6c description=莫奈取色整合模块   已开启莫奈取色的软件：${module}" "$MODPATH"/module.prop
 sleep 0.07
 echo -en "\n"
 Outputs "—————————————————————————"
@@ -260,11 +259,15 @@ Outputs "———————————————————————�
 
 if [[ $(Volume_key_monitoring) == 0 ]]; then
   Outputs "支持作者"
+  Outpus "感谢您的支持"
   sleep 0.5
   am start -a android.intent.action.VIEW -d https://pay.jerryz.com.cn/ &>/dev/null
 else
   Outputs "不支持作者"
 fi
-
+echo -en "\n"
+Outputs "GitHub项目地址：github.com/YangguangZhou/Monet-All"
+Outputs "交流群：t.me/Monet_All"
+echo -en "\n"
 set_perm_recursive "$MODPATH" 0 0 0755 0777
 Outputs "安装完成"
