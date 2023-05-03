@@ -259,7 +259,7 @@ Outputs "———————————————————————�
 
 if [[ $(Volume_key_monitoring) == 0 ]]; then
   Outputs "支持作者"
-  Outpus "感谢您的支持"
+  Outputs "感谢您的支持"
   sleep 0.5
   am start -a android.intent.action.VIEW -d https://pay.jerryz.com.cn/ &>/dev/null
 else
