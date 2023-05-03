@@ -25,6 +25,11 @@ export default defineConfig({
       pattern: 'https://github.com/YangguangZhou/Monet-All/blob/docs/docs/:path',
       text: 'Edit this page on GitHub'
     },
+    algolia: {
+      appId: 'T4RVBHOPQE',
+      apiKey: 'f2da4e2a79ae9edc46037ffa47f8f019',
+      indexName: 'monet-jerryz-com',
+    },
     logo: 'https://img.examcoo.com/ask/7386438/202303/167966740456420.png',
   }
 })
