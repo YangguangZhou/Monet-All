@@ -1,7 +1,7 @@
 id=Monet-All
 name=Monet-All
-version=v2.0.2
-versionCode=202
+version=v2.0.3
+versionCode=203
 author=Jerry Zhou
-description=莫奈取色整合模块 GitHub项目地址：https://github.com/YangguangZhou/Monet-All Telegram交流群：https://t.me/Monet_All
+description=莫奈取色整合模块 说明文档：monet.jerryz.com.cn
 updateJson=https://monet.jerryz.com.cn/Monet-All.json
