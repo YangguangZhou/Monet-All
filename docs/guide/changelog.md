@@ -1,6 +1,12 @@
 # 更新日志
 
-## v2.0.2 <Badge type="tip" text="最新版本" />
+## v2.0.3 <Badge type="tip" text="最新版本" />
+ - 新增：新增WPS便签、椒盐音乐、钱迹、MOJI辞書、VMOS Pro、WPS Office的取色
+ - 更新：更新微信国内版取色
+ - 优化：优化安装文件
+ - 修复：修复不显示已安装的取色模块的bug
+
+## v2.0.2
  - 新增：新增Bilibili国际版、随机Unknown、SAI、彩云小译、一飞记账、哈兔Box、流舟文件、安装狮、安装狮-root、彩云天气、VNC Viewer、QQ邮箱、一木记账、SD Maid、IDM、IDM+、白马地图、坚果云、小黑屋、创建快捷方式的莫奈取色
  - 更新：更新Taptap和微信键盘的莫奈取色
 
