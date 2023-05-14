@@ -36,7 +36,7 @@ if [[ $(Volume_key_monitoring) == 0 ]]; then
 else
   Outputs "请认真阅读模块适配的应用版本并阅读注意事项"
   sleep 0.5
-  am start -a android.intent.action.VIEW -d https://monet.jerryz.com.cn/ &>/dev/null
+  am start -a android.intent.action.VIEW -d https://monet.jerryz.com.cn/?utm_source=module &>/dev/null
 fi
 
 #初始化变量
@@ -279,11 +279,12 @@ if [[ $(Volume_key_monitoring) == 0 ]]; then
   Outputs "支持作者"
   Outputs "感谢您的支持"
   sleep 0.5
-  am start -a android.intent.action.VIEW -d https://pay.jerryz.com.cn/ &>/dev/null
+  am start -a android.intent.action.VIEW -d https://pay.jerryz.com.cn/?utm_source=module &>/dev/null
 else
   Outputs "不支持作者"
 fi
 echo -en "\n"
+Outputs "说明文档：monet.jerryz.com.cn"
 Outputs "GitHub项目地址：github.com/YangguangZhou/Monet-All"
 Outputs "交流群：t.me/Monet_All"
 echo -en "\n"
