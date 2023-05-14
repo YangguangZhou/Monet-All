@@ -1,6 +1,12 @@
 # Update log
 
-## v2.0.2 <Badge type="tip" text="Latest" />
+## v2.0.3 <Badge type="tip" text="Latest" />
+ - New: New coloring for WPS便签、椒盐音乐、钱迹、MOJI辞書、VMOS Pro、WPS Office
+ - Update: Update the coloring of WeChat domestic version
+ - Optimization: Optimize the installation files
+ - Fix: Fix the bug of not showing the installed coloring module
+
+## v2.0.2
  - New: Bilibili International Version, 随机Unknown, SAI, 彩云小译, 一飞记账, 哈兔Box, 流舟文件, 安装狮, 安装狮-root, 彩云天气, VNC Viewer, QQ Mail, 一木记账, SD Maid, IDM, IDM+, 白马地图, 坚果云, 小黑屋, 创建快捷方式 Monet color
  - Update: Update Monet coloring for Taptap and WeType
 
@@ -12,7 +18,7 @@
 ## v2.0
 
  - New: WeChat(Chinese Version), Clash (Premium), TapTap, Firefox, Iceraven, FirefoxNightly, One Wooden Letter, Share (third-party Weibo), APKGrabber, Monet color of Nothing weather
- - Added: Installation of Jetisteam (third-party Spotify), VideoYou
+ - New: Installation of Jetisteam (third-party Spotify), VideoYou
  - New: Download of MIUI Monet, PUITheme for ColorOS13
  - Update: Bilibili Monet Color Update New Version
  - Replacement: Via's Monet color is replaced by null Meow's.
