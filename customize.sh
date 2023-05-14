@@ -23,7 +23,7 @@ Volume_key_monitoring() {
 
 #开始安装
 sleep 0.07
-echo -en "\nMonet-All v2.0.2\nby Jerry Zhou\n\n"
+echo -en "\nMonet-All v2.0.3\nby Jerry Zhou\n\n"
 sleep 0.07
 echo -en '安装模块前请先确认模块适配的应用版本并阅读注意事项\n搞机不谨慎，救砖两行泪\n'
 Outputs "—————————————————————————————————————"
