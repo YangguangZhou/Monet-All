@@ -23,7 +23,7 @@ Volume_key_monitoring() {
 
 #开始安装
 sleep 0.07
-echo -en "\nMonet-All v2.0.2\nby Jerry Zhou\n\n"
+echo -en "\nMonet-All v2.0.3\nby Jerry Zhou\n\n"
 sleep 0.07
 echo -en '安装模块前请先确认模块适配的应用版本并阅读注意事项\n搞机不谨慎，救砖两行泪\n'
 Outputs "—————————————————————————————————————"
@@ -36,7 +36,7 @@ if [[ $(Volume_key_monitoring) == 0 ]]; then
 else
   Outputs "请认真阅读模块适配的应用版本并阅读注意事项"
   sleep 0.5
-  am start -a android.intent.action.VIEW -d https://monet.jerryz.com.cn/ &>/dev/null
+  am start -a android.intent.action.VIEW -d https://monet.jerryz.com.cn/?utm_source=module &>/dev/null
 fi
 
 #初始化变量
@@ -78,7 +78,7 @@ if [[ "$output" != "" ]]; then
   fi
 fi
 
-for loop in com.coolapk.market com.tencent.wetype com.tencent.weread com.apple.android.music tv.danmaku.bili com.bilibili.app.in com.android.systemui mark.via com.douban.frodo com.huanchengfly.tieba.post com.github.kr328.clash.foss com.github.kr328.clash com.netease.cloudmusic com.omarea.vtools com.sup.android.superb com.miui.player com.jiongji.andriod.card com.newskyer.draw com.taptap org.mozilla.firefox org.mozilla.fenix io.github.forkmaintainers.iceraven cn.icyflame.unknown com.aefyr.sai com.caiyuninterpreter.activity com.jarstones.jizhang com.Jesse205.hellotool com.liuzho.file.explorer com.modosa.apkinstaller com.modosa.rootinstaller com.nowcasting.activity com.realvnc.viewer.android com.tencent.androidqqmail com.wangc.bill eu.thedarken.sdm idm.internet.download.manager idm.internet.download.manager.plus me.gfuil.bmap nutstore.android web1n.stopapp x7890.shortcutcreator; do
+for loop in com.coolapk.market com.tencent.wetype com.tencent.weread com.apple.android.music tv.danmaku.bili com.bilibili.app.in com.android.systemui mark.via com.douban.frodo com.huanchengfly.tieba.post com.github.kr328.clash.foss com.github.kr328.clash com.netease.cloudmusic com.omarea.vtools com.sup.android.superb com.miui.player com.jiongji.andriod.card com.newskyer.draw com.taptap org.mozilla.firefox org.mozilla.fenix io.github.forkmaintainers.iceraven cn.icyflame.unknown com.aefyr.sai com.caiyuninterpreter.activity com.jarstones.jizhang com.Jesse205.hellotool com.liuzho.file.explorer com.modosa.apkinstaller com.modosa.rootinstaller com.nowcasting.activity com.realvnc.viewer.android com.tencent.androidqqmail com.wangc.bill eu.thedarken.sdm idm.internet.download.manager idm.internet.download.manager.plus me.gfuil.bmap nutstore.android web1n.stopapp x7890.shortcutcreator cn.wps.moffice_eng cn.wps.note com.mojitec.mojidict com.mutangtech.qianji com.salt.music com.vmos.pro; do
   case $loop in
   com.coolapk.market)
     name=酷安
@@ -200,6 +200,24 @@ for loop in com.coolapk.market com.tencent.wetype com.tencent.weread com.apple.a
   x7890.shortcutcreator)
     name=创建快捷方式
     ;;
+  cn.wps.moffice_eng)
+    name="WPS Office"
+    ;;
+  cn.wps.note)
+    name=WPS便签
+    ;;
+  com.mojitec.mojidict)
+    name=MOJI辞書
+    ;;
+  com.mutangtech.qianji)
+    name=钱迹
+    ;;
+  com.salt.music)
+    name=椒盐音乐
+    ;;
+  com.vmos.pro)
+    name="VMOS Pro"
+    ;;
   *) continue ;;
   esac
   output="$(pm list package | grep $loop)"
@@ -222,6 +240,11 @@ for loop in com.coolapk.market com.tencent.wetype com.tencent.weread com.apple.a
         else
           monet=${monet}"、"${name}
         fi
+      fi
+      if [[ "$cnt" -le 1 ]]; then
+        module=${name}
+      else
+        module=${module}"、"${name}
       fi
     else
       Outputs "不安装$name莫奈取色"
@@ -261,11 +284,12 @@ if [[ $(Volume_key_monitoring) == 0 ]]; then
   Outputs "支持作者"
   Outputs "感谢您的支持"
   sleep 0.5
-  am start -a android.intent.action.VIEW -d https://pay.jerryz.com.cn/ &>/dev/null
+  am start -a android.intent.action.VIEW -d https://pay.jerryz.com.cn/?utm_source=module &>/dev/null
 else
   Outputs "不支持作者"
 fi
 echo -en "\n"
+Outputs "说明文档：monet.jerryz.com.cn"
 Outputs "GitHub项目地址：github.com/YangguangZhou/Monet-All"
 Outputs "交流群：t.me/Monet_All"
 echo -en "\n"
