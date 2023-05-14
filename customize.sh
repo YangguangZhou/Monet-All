@@ -241,6 +241,11 @@ for loop in com.coolapk.market com.tencent.wetype com.tencent.weread com.apple.a
           monet=${monet}"、"${name}
         fi
       fi
+      if [[ "$cnt" -le 1 ]]; then
+        module=${name}
+      else
+        module=${module}"、"${name}
+      fi
     else
       Outputs "不安装$name莫奈取色"
       rm -rf "$MODPATH"/system/priv-app/$loop.apk
