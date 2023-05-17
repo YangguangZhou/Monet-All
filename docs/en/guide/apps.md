@@ -2,8 +2,8 @@
 
 | Application | Author |
 | --- | --- |
-| WeChat(Chinese Version) | Unknow |
-| WeChat(Play 8.0.30) | 大且丑 |
+| WeChat(Chinese Version) | nescio |
+| WeChat(Play 8.0.33) | 大且丑 |
 | Coolapk | 人在且号无 |
 | WeType | JerryZhouYG |
 | WeRead | JerryZhouYG |
