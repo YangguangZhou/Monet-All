@@ -1,11 +1,11 @@
 {
     "redirects": [
         { "source": "/coolapk", "destination": "https://www.coolapk.com/feed/42307414?shareKey=NmM5OGYzZmU2ODYwNjNiODIwMDg~" },
-        { "source": "/download", "destination": "https://cloud.jerryz.com.cn/d/Monet-All/Monet-All%20v2.0.2.zip" },
-        { "source": "/md", "destination": "https://cloud.jerryz.com.cn/d/Monet-All/Monet-All.md" },
-        { "source": "/json", "destination": "https://cloud.jerryz.com.cn/d/Monet-All/Monet-All.json" },
-        { "source": "/Monet-All.md", "destination": "https://cloud.jerryz.com.cn/d/Monet-All/Monet-All.md" },
-        { "source": "/Monet-All.json", "destination": "https://cloud.jerryz.com.cn/d/Monet-All/Monet-All.json" },
+        { "source": "/download", "destination": "https://cloud.jerryz.com.cn/d/OneDrive/OnlineDrive/Monet-All/Monet-All%20v2.0.2.zip" },
+        { "source": "/md", "destination": "https://cloud.jerryz.com.cn/d/OneDrive/OnlineDrive/Monet-All/Monet-All.md" },
+        { "source": "/json", "destination": "https://cloud.jerryz.com.cn/d/OneDrive/OnlineDrive/Monet-All/Monet-All.json" },
+        { "source": "/Monet-All.md", "destination": "https://cloud.jerryz.com.cn/d/OneDrive/OnlineDrive/Monet-All/Monet-All.md" },
+        { "source": "/Monet-All.json", "destination": "https://cloud.jerryz.com.cn/d/OneDrive/OnlineDrive/Monet-All/Monet-All.json" },
         { "source": "/group", "destination": "https://t.me/Monet_All" }
     ],
     "cleanUrls" : true,
