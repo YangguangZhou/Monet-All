@@ -295,3 +295,4 @@ Outputs "交流群：t.me/Monet_All"
 echo -en "\n"
 set_perm_recursive "$MODPATH" 0 0 0755 0777
 Outputs "安装完成"
+echo -en "\n"
