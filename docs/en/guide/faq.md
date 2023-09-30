@@ -6,7 +6,7 @@
 
 Try to troubleshoot the following issues:
 
-1. Whether Root is hidden from the target application (90% of the problem causes)
+1. **Whether Root is hidden from the target application** (90% of the problem causes)
 2. Whether the system and equipment support Material You
 3. Did you reboot the device after installing the module
 4. Metaphysical problems
@@ -14,10 +14,6 @@ Try to troubleshoot the following issues:
 ## Abnormal color taking in domestic version of WeChat/not effective
 
 True Metaphysics
-
-## The button text color of Scene 5 and above versions is abnormal
-
-The Pixel 6 used by the author himself cannot use the version above Scene 5. Please adapt it by yourself.
 
 ## Color taking of other applications is abnormal/not effective
 

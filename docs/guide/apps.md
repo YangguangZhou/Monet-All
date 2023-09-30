@@ -3,9 +3,9 @@
 | 应用 | 原作者 |
 | --- | --- |
 | 微信（国内版） | nescio |
-| 微信（play 8.0.33） | 大且丑 |
+| [微信（play 8.0.37）](https://www.123pan.com/s/GUCRVv-gm4Mv.html) | 大且丑 |
 | 酷安 | 人在且号无 |
-| 微信键盘 | JerryZhouYG |
+| [微信键盘（v1.1.3）](https://www.123pan.com/s/4ypDVv-rFSgH.html) | JerryZhouYG |
 | 微信读书 | JerryZhouYG |
 | Scene | 人在且号无 |
 | 皮皮虾 | 醒亦恋你梦亦恋你 |

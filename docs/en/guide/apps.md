@@ -3,9 +3,9 @@
 | Application | Author |
 | --- | --- |
 | WeChat(Chinese Version) | nescio |
-| WeChat(Play 8.0.33) | 大且丑 |
+| [WeChat(Play 8.0.37)](https://www.123pan.com/s/GUCRVv-gm4Mv.html) | 大且丑 |
 | Coolapk | 人在且号无 |
-| WeType | JerryZhouYG |
+| [WeType(v1.1.3)](https://www.123pan.com/s/4ypDVv-rFSgH.html) | JerryZhouYG |
 | WeRead | JerryZhouYG |
 | Scene | 人在且号无 |
 | 皮皮虾 | 醒亦恋你梦亦恋你 |

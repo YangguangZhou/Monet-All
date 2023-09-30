@@ -1,6 +1,10 @@
 # Update log
 
-## v2.0.3 <Badge type="tip" text="Latest" />
+## v2.0.4 <Badge type="tip" text="Latest Version" />
+# v2.0.4
+- Update: Updated WeChat([Play version 8.0.37](https://www.123pan.com/s/GUCRVv-gm4Mv.html) v7), WeType([v1.1.3](https://www.123pan.com/s/4ypDVv-rFSgH.html)), Scene, Bilibili ([#15](https://github.com/YangguangZhou/Monet-All/pull/15)) color picking feature.
+
+## v2.0.3
  - New: New coloring for WPS便签、椒盐音乐、钱迹、MOJI辞書、VMOS Pro、WPS Office
  - Update: Update the coloring of WeChat domestic version
  - Optimization: Optimize the installation files
