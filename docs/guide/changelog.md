@@ -1,7 +1,6 @@
 # 更新日志
 
 ## v2.0.4 <Badge type="tip" text="最新版本" />
-# v2.0.4
  - 更新：更新微信（[Play版8.0.37](https://www.123pan.com/s/GUCRVv-gm4Mv.html) v7）、微信输入法（[v1.1.3](https://www.123pan.com/s/4ypDVv-rFSgH.html)）、Scene、Bilibili（[#15](https://github.com/YangguangZhou/Monet-All/pull/15)）取色
 
 ## v2.0.3
