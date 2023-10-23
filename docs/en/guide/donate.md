@@ -1,6 +1,6 @@
 # Donation
 
-If you find this module helpful, you can consider [Supporting My Development](https://pay.jerryz.com.cn/).
+If you find this module helpful, you can consider [Supporting My Development](https://pay.jerryz.com.cn/sponsor).
 
 ## Donation list
 

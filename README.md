@@ -17,9 +17,9 @@ The Magisk module integrated with Monet color extraction can select whether to i
 
 ## 捐赠 Donate
 
-如果你觉得这个模块对你有帮助，你可以考虑[支持我的开发](https://pay.jerryz.com.cn/)
+如果你觉得这个模块对你有帮助，你可以考虑[支持我的开发](https://pay.jerryz.com.cn/sponsor)
 
-If you think this module is helpful to you, you can consider [support my development](https://pay.jerryz.com.cn/)
+If you think this module is helpful to you, you can consider [support my development](https://pay.jerryz.com.cn/sponsor)
 
 ## 交流群 Communication Group
 

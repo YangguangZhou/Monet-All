@@ -1,6 +1,6 @@
 # 捐赠
 
-如果你觉得这个模块对你有帮助，你可以考虑[支持我的开发](https://pay.jerryz.com.cn/)
+如果你觉得这个模块对你有帮助，你可以考虑[支持我的开发](https://pay.jerryz.com.cn/sponsor)
 
 ## 捐赠名单
 
