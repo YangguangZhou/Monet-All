@@ -1,12 +1,15 @@
 {
   "scripts": {
     "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "docs:preview": "vitepress preview docs",
+    "documate:upload": "documate upload"
   },
   "devDependencies": {
+    "@documate/documate": "^0.2.1",
     "vitepress": "^1.0.0-alpha.65"
   },
   "dependencies": {
+    "@documate/vue": "^0.3.1",
     "@vercel/analytics": "^1.0.0"
   }
 }
