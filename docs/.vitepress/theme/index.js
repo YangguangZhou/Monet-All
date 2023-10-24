@@ -9,7 +9,7 @@ export default {
   ...DefaultTheme,
   Layout: h(DefaultTheme.Layout, null, {
     'nav-bar-content-before': () => h(Documate, {
-      endpoint: 'https://hej3t2xt2v.us.aircode.run/upload',
+      endpoint: 'https://hej3t2xt2v.us.aircode.run/ask',
     }),
   }),
 }
