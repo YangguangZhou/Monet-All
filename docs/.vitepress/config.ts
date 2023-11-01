@@ -1,8 +1,7 @@
 import { createRequire } from 'module'
 import { defineConfig } from 'vitepress'
-
 // import locales from './locales'
-import en from './locales/en.ts'
+import en from './locales/en'
 
 const require = createRequire(import.meta.url)
 const pkg = require('vitepress/package.json')

@@ -1,13 +1,8 @@
 :root {
   --vp-c-brand: #279cff;
-  --vp-c-brand-1: #279cff;
-  --vp-c-brand-2: #279cff;
-  --vp-c-brand-3: #279cff;
   --vp-c-brand-light: #279cff;
-  /* --vp-home-hero-name-color: #279cff;
-  --vp-home-hero-name-background: #279cff; */
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #279cff, #56b7ff);
+  --vp-home-hero-name-color: #279cff;
+  --vp-home-hero-name-background: #279cff;
   --vp-c-brand-lighter: #279cff;
   --vp-c-brand-dark: #279cff;
   --vp-c-brand-darker: #279cff;
