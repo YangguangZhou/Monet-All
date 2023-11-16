@@ -17,7 +17,7 @@ export default defineConfig({
   head: [
     [
       'script',
-      { async: '', async: '', 'data-website-id': 'c25f86e1-29ad-48cc-865c-c0f02b56821f', src: 'https://analytics.umami.is/script.js' }
+      { async: '', async: '', 'data-website-id': '4da319ee-96d6-4af0-8854-7db1b19266da', src: 'https://umami.jerryz.com.cn/script.js' }
     ],
     [
       'script',
@@ -27,7 +27,7 @@ export default defineConfig({
       'script',
       { defer: '', src: '/_vercel/insights/script.js' }
     ]
-    // <script async src="https://analytics.umami.is/script.js" data-website-id="c25f86e1-29ad-48cc-865c-c0f02b56821f"></script>
+    // <script async src="https://umami.jerryz.com.cn/script.js" data-website-id="4da319ee-96d6-4af0-8854-7db1b19266da"></script>
     // <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2597042766299857" crossorigin="anonymous"></script>
     // <script defer src="/_vercel/insights/script.js"></script>
   ],
