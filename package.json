@@ -4,7 +4,7 @@
     "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
-    "vitepress": "^1.0.0-alpha.65"
+    "vitepress": "^1.1.0"
   },
   "dependencies": {
     "@vercel/analytics": "^1.0.0"
