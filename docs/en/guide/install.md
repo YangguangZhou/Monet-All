@@ -24,4 +24,4 @@ Open the compressed package in Magisk or KernelSU, and use the volume key to sel
 
 ## Preview
 
-![](/1.png)
+![](https://cdn.jerryz.com.cn/gh/YangguangZhou/Monet-All@docs/docs/public/1.png)

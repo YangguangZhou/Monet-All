@@ -37,10 +37,10 @@ Magisk or KernelSU
 
 ## Preview
 
-![](/2.png)
+![](https://cdn.jerryz.com.cn/gh/YangguangZhou/Monet-All@docs/docs/public/2.png)
 
-![](/3.png)
+![](https://cdn.jerryz.com.cn/gh/YangguangZhou/Monet-All@docs/docs/public/3.png)
 
-![](/4.png)
+![](https://cdn.jerryz.com.cn/gh/YangguangZhou/Monet-All@docs/docs/public/4.png)
 
-![](/5.png)
+![](https://cdn.jerryz.com.cn/gh/YangguangZhou/Monet-All@docs/docs/public/5.png)
