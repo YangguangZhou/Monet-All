@@ -1,6 +1,12 @@
 # Update log
 
-## v2.0.4 <Badge type="tip" text="Latest Version" />
+## v2.1 <Badge type="tip" text="Latest Version" />
+- Update: Updated WeChat (Play 8.0.49, thanks to 元気な枯れ木), Via, and WeChat Input Method (thanks to 我跟你ins吗 and 折月成诗).
+- New: Added Clash Meta from tg@Night_TVofficial.
+- Optimization: Greatly optimized customize.sh, added support for English.
+- Fix: Fixed a bug that prevented distinguishing certain software.
+
+## v2.0.4
 - Update: Updated WeChat([Play version 8.0.37](https://www.123pan.com/s/GUCRVv-gm4Mv.html) v7), WeType([v1.1.3](https://www.123pan.com/s/4ypDVv-rFSgH.html)), Scene, Bilibili ([#15](https://github.com/YangguangZhou/Monet-All/pull/15)) color picking feature.
 
 ## v2.0.3

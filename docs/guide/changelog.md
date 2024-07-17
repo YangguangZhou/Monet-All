@@ -1,6 +1,13 @@
 # 更新日志
 
-## v2.0.4 <Badge type="tip" text="最新版本" />
+## v2.1 <Badge type="tip" text="最新版本" />
+
+- 更新：更新微信（Play 8.0.49，来自 元気な枯れ木 ）、Via、微信输入法（感谢 我跟你ins吗 和 折月成诗 的贡献）
+- 新增：新增来自 tg@Night_TVofficial 的Clash Meta
+- 优化：大幅优化customize.sh，添加对英文的支持
+- 修复：修复无法区分部分软件的Bug
+
+## v2.0.4
  - 更新：更新微信（[Play版8.0.37](https://www.123pan.com/s/GUCRVv-gm4Mv.html) v7）、微信输入法（[v1.1.3](https://www.123pan.com/s/4ypDVv-rFSgH.html)）、Scene、Bilibili（[#15](https://github.com/YangguangZhou/Monet-All/pull/15)）取色
 
 ## v2.0.3

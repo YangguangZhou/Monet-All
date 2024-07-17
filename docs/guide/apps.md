@@ -3,9 +3,9 @@
 | 应用 | 原作者 |
 | --- | --- |
 | 微信（国内版） | nescio |
-| [微信（play 8.0.37）](https://www.123pan.com/s/GUCRVv-gm4Mv.html) | 大且丑 |
+| 微信（play 8.0.37 | 元気な枯れ木 |
 | 酷安 | 人在且号无 |
-| [微信键盘（v1.1.3）](https://www.123pan.com/s/4ypDVv-rFSgH.html) | JerryZhouYG |
+| 微信键盘（v1.3.1） | JerryZhouYG |
 | 微信读书 | JerryZhouYG |
 | Scene | 人在且号无 |
 | 皮皮虾 | 醒亦恋你梦亦恋你 |
@@ -19,6 +19,7 @@
 | 贴吧Lite | 三五二三一 |
 | Clash（Foss版） | JerryZhouYG |
 | Clash（Premium版） | JerryZhouYG |
+| Clash Meta | tg@Night_TVofficial |
 | 享做笔记 | Esing |
 | Apple Music | Deskerd |
 | TapTap | null喵 |
