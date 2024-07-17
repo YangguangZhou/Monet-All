@@ -17,7 +17,7 @@ export default defineConfig({
   head: [
     [
       'script',
-      { async: '', async: '', 'data-website-id': '4da319ee-96d6-4af0-8854-7db1b19266da', src: 'https://umami.jerryz.com.cn/script.js' }
+      { async: '', 'data-website-id': '4da319ee-96d6-4af0-8854-7db1b19266da', src: 'https://umami.jerryz.com.cn/script.js' }
     ],
     [
       'script',
