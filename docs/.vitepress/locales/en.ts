@@ -1,6 +1,4 @@
-import { defineConfig } from 'vitepress'
-
-export default defineConfig({
+export default({
   title: 'Monet All',
   lang: 'en',
   description: 'Monet coloring integration Magisk module',

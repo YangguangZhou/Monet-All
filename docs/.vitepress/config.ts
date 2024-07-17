@@ -1,12 +1,6 @@
-import { createRequire } from 'module'
-import { defineConfig } from 'vitepress'
-// import locales from './locales'
 import en from './locales/en'
 
-const require = createRequire(import.meta.url)
-const pkg = require('vitepress/package.json')
-
-export default defineConfig({
+export default({
   title: 'Monet All',
   lang: 'zh-CN',
   description: '莫奈取色整合Magisk模块',
