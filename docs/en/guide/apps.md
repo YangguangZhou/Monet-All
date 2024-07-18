@@ -2,7 +2,7 @@
 
 | Application | Author |
 | --- | --- |
-| WeChat(Chinese Version) | nescio |
+| WeChat(Chinese Version 8.0.50) | 我跟你ins吗 |
 | WeChat(Play 8.0.49) | 大且丑 |
 | Coolapk | 人在且号无 |
 | WeType(v1.3.1) | JerryZhouYG |

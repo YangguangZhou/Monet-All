@@ -169,6 +169,7 @@ function sidebarGuide() {
         { text: '交流群', link: '/guide/group' },
         { text: '捐赠', link: '/guide/donate' },
         { text: '关于作者', link: '/guide/about' },
+        { text: 'License', link: '/guide/license' },
       ]
     },
   ]

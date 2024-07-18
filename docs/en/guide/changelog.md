@@ -1,7 +1,7 @@
 # Update log
 
 ## v2.1 <Badge type="tip" text="Latest Version" />
-- Update: Updated WeChat (Play 8.0.49, thanks to 元気な枯れ木), Via, and WeChat Input Method (thanks to 我跟你ins吗 and 折月成诗).
+- Update: Updated WeChat (Play 8.0.49 from 元気な枯れ木, Chinese v8.0.50 from 我跟你ins吗), Via, and WeChat Input Method (thanks to 我跟你ins吗 and 折月成诗).
 - New: Added Clash Meta from tg@Night_TVofficial.
 - Optimization: Greatly optimized customize.sh, added support for English.
 - Fix: Fixed a bug that prevented distinguishing certain software.

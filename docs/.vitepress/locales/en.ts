@@ -64,6 +64,7 @@ function sidebarGuide() {
         { text: 'Communication Group', link: '/en/guide/group' },
         { text: 'Donate', link: '/en/guide/donate' },
         { text: 'About the author', link: '/en/guide/about' },
+        { text: 'License', link: '/guide/license' },
       ]
     },
   ]
