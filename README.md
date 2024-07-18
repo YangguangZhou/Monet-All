@@ -22,8 +22,21 @@ The Magisk module integrated with Monet color extraction can select whether to i
 If you think this module is helpful to you, you can consider [support my development](https://pay.jerryz.com.cn/)
 
 ## 交流群 Communication Group
+
 [点击这里加入](https://monet.jerryz.com.cn/group)
 
 [Click here to join](https://monet.jerryz.com.cn/group)
 
 [![Telegram](https://img.shields.io/badge/Telegram-Monet__All-informational?logo=telegram)](https://monet.jerryz.com.cn/group)
+
+## License
+
+[![License](https://img.shields.io/github/license/YangguangZhou/Monet-All)](LICENSE)
+
+本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件。所有模块，包括子模块的二次修改，都需注明原作者。
+
+版权所有 © 2022-2024 [Jerry Zhou](https://jerryz.com.cn). 保留所有权利。
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. All modules, including modifications of submodules, must credit the original author.
+
+Copyright © 2022-2024 [Jerry Zhou](https://jerryz.com.cn). All rights reserved.
