@@ -455,8 +455,10 @@ fi
 echo -en "\n"
 if [ "$language" = "zh" ]; then
   echo -en "\n已安装下列应用的莫奈取色："
+  description="莫奈取色整合模块   已开启莫奈取色的软件：${module}"
 else
   echo -en "\nMonet theme has been installed for the following apps:"
+  description = "Monet color picking integration module   Software with Monet color picking enabled: ${module}"
 fi
 
 echo -en "\n$monet\n"
