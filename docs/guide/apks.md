@@ -9,9 +9,9 @@
 | Nothing 天气 | https://cloud.jerryz.com.cn/d/OneDrive/OnlineDrive/Monet-All/APK/Nothing天气.apk |
 | Share（第三方微博） | https://cloud.jerryz.com.cn/d/OneDrive/OnlineDrive/Monet-All/APK/Share（第三方微博）.apk | -->
 
-## 独立应用
+## Material You 软件仓库
 
-https://github.com/CHNJohnHK/Material-You-App-Repository
+https://blog.jerryz.com.cn/article/Material-You-App-Repository/
 
 ## 系统模块
 

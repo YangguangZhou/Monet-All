@@ -9,15 +9,9 @@
 | Nothing Wether | https://cloud.jerryz.com.cn/d/OneDrive/OnlineDrive/Monet-All/APK/Nothing天气.apk |
 | Share (third-party Weibo) | https://cloud.jerryz.com.cn/d/OneDrive/OnlineDrive/Monet-All/APK/ShareShare（第三方微博）.apk | -->
 
-## Applications
+## Material You App Repository
 
-<!-- | Application Name | Download Link |
-| --- | --- |
-| VideoYou | https://cloud.jerryz.com.cn/d/OneDrive/OnlineDrive/Monet-All/APK/VideoYou.apk |
-| Jetispot (third-party Spotify) | https://cloud.jerryz.com.cn/d/OneDrive/OnlineDrive/Monet-All/APK/Jetispot（第三方Spotify）.apk |
-| Jetisteam (third-party Steam) | https://cloud.jerryz.com.cn/d/OneDrive/OnlineDrive/Monet-All/APK/Jetisteam（第三方Steam）.apk | -->
-
-https://github.com/CHNJohnHK/Material-You-App-Repository
+https://blog.jerryz.com.cn/article/Material-You-App-Repository/
 
 ## System module
 
