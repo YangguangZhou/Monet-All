@@ -11,15 +11,11 @@ export default({
   head: [
     [
       'script',
-      { async: '', 'data-website-id': '4da319ee-96d6-4af0-8854-7db1b19266da', src: 'https://umami.jerryz.com.cn/script.js' }
+      { defer: '', 'data-website-id': 'da6fb0b0-8545-4480-9764-46960bd1b239', src: 'https://umami.jerryz.com.cn/script.js' }
     ],
     [
       'script',
       { async: '', src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2597042766299857', crossorigin: 'anonymous' } 
-    ],
-    [
-      'script',
-      { defer: '', src: '/_vercel/insights/script.js' }
     ]
     // <script async src="https://umami.jerryz.com.cn/script.js" data-website-id="4da319ee-96d6-4af0-8854-7db1b19266da"></script>
     // <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2597042766299857" crossorigin="anonymous"></script>
