@@ -23,11 +23,11 @@ If you think this module is helpful to you, you can consider [support my develop
 
 ## 交流群 Communication Group
 
+[![Telegram](https://img.shields.io/badge/Telegram-Monet__All-informational?logo=telegram)](https://monet.jerryz.com.cn/group)
+
 [点击这里加入](https://monet.jerryz.com.cn/group)
 
 [Click here to join](https://monet.jerryz.com.cn/group)
-
-[![Telegram](https://img.shields.io/badge/Telegram-Monet__All-informational?logo=telegram)](https://monet.jerryz.com.cn/group)
 
 ## License
 
