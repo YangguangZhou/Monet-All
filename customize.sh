@@ -23,6 +23,7 @@ check_and_install_app() {
   local package_name=$1
   local app_name=$2
   local installed=$(pm list packages | grep "package:$package_name\$")
+  local need_to_remove=0
 
   if [ -n "$installed" ]; then
     output_with_delay "$(get_lang_string "installed") $app_name"
@@ -58,15 +59,20 @@ check_and_install_app() {
       fi
     else
       output_with_delay "$(get_lang_string "not_install") $app_name $(get_lang_string "monet")"
-      if [ "$package_name" == "com.tencent.mm" ]; then
-        rm -rf "$MODPATH/system/priv-app/com.tencent.mm.apk"
-        rm -rf "$MODPATH/system/priv-app/com.tencent.mm(Play).apk"
-      else
-        rm -rf "$MODPATH/system/priv-app/$package_name.apk"
-      fi
+      need_to_remove=1
     fi
   else
     output_with_delay "$(get_lang_string "not_installed") $app_name"
+    need_to_remove=1
+  fi
+  
+  if [ "$need_to_remove" == 1 ]; then
+    if [ "$package_name" == "com.tencent.mm" ]; then
+        rm -rf "$MODPATH/system/priv-app/com.tencent.mm.apk"
+        rm -rf "$MODPATH/system/priv-app/com.tencent.mm(Play).apk"
+    else
+        rm -rf "$MODPATH/system/priv-app/$package_name.apk"
+    fi
   fi
 }
 
